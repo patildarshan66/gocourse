@@ -27,7 +27,6 @@ func main() {
 	fmt.Println(incermenter2(8))
 	fmt.Println(incermenter2(9))
 	fmt.Println(incermenter2(10))
-
 }
 
 func makeIncermentetr() func(int) int {

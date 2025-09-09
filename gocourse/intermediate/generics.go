@@ -67,7 +67,7 @@ func (s *stack[T]) pop() (T, bool) {
 	return element, true
 }
 
-func (s stack[T]) isEmpty() bool {
+func (s *stack[T]) isEmpty() bool {
 	return len(s.elements) == 0
 }
 
