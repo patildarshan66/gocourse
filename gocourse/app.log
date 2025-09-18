@@ -1,0 +1,6 @@
+Debug Log: 2025/09/18 11:32:06 logging.go:31: This is a debug log
+Debug Log: 2025/09/18 11:32:06 logging.go:33: This is a debug log 2
+INFO: 2025/09/18 11:40:05 logging.go:34: This is a info logger
+WARNING: 2025/09/18 11:40:05 logging.go:35: This is a warning logger
+ERROR: 2025/09/18 11:40:05 logging.go:36: This is a error logger
+DEBUG: 2025/09/18 11:40:05 logging.go:37: This is a debug log
